@@ -7,10 +7,12 @@
     font-size: 1rem;
     cursor: pointer;
     transition: box-shadow .6s ease;
+    border-radius: 10px;
 }
 
 .button.blue{
-    background-color: #1FB6FF;
+    background-color: #1fa2ff;
+    border:3px solid green;
 }
 
 button.green{
